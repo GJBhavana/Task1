@@ -3,4 +3,7 @@ Welcome to MyKitchen
 Pulav
 Jalebi
 
+Pizza
+Pasta
+
 Thank you
